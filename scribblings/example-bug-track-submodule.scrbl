@@ -3,7 +3,7 @@
                      racket/base))
 
 @title{example-bug-track-submodule}
-@author{georges}
+@author[@author+email["Suzanne Soy" "racket@suzanne.soy"]]
 
 @defmodule[example-bug-track-submodule]
 
